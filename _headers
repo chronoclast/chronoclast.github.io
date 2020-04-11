@@ -62,6 +62,15 @@
   Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx-3aa2d3432127bae041fd.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/diario-02-donde-los-hombres-se-convierten-en-dioses
+  Link: </webpack-runtime-b57000fb763b366f7fde.js>; rel=preload; as=script
+  Link: </framework-52a3ea48de1a5dd03b5a.js>; rel=preload; as=script
+  Link: </app-8f59b05a48fdd4cefd7f.js>; rel=preload; as=script
+  Link: </styles-48fa8a050a65bb8447bd.js>; rel=preload; as=script
+  Link: </f2dc0ada23056430abd4477a8c7b5502a11ad7d1-5652b910aea6e7511a4f.js>; rel=preload; as=script
+  Link: </component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-post-query-tsx-578934f3cf126a264fa7.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/diario-02-donde-los-hombres-se-convierten-en-dioses/page-data.json>; rel=preload; as=fetch; crossorigin
 /diario-01-no-se-donde-encontrarle
   Link: </webpack-runtime-b57000fb763b366f7fde.js>; rel=preload; as=script
   Link: </framework-52a3ea48de1a5dd03b5a.js>; rel=preload; as=script
