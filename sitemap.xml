@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://minimal-blog.lekoarts.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/cortos/diario-02-donde-los-hombres-se-convierten-en-dioses</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/cortos/diario-01-no-se-donde-encontrarle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/articulos/el-lobo-y-la-grulla</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/sobre-mi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/berlin</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/diario</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/fabulas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/mierdas-del-ano-del-cuete</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://minimal-blog.lekoarts.de/tags/opiniones-de-mierda</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/cortos/diario-02-donde-los-hombres-se-convierten-en-dioses</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/cortos/diario-01-no-se-donde-encontrarle</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/articulos/el-lobo-y-la-grulla</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/sobre-mi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/tags/berlin</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/tags/diario</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/tags/fabulas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/tags/mierdas-del-ano-del-cuete</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://chronoclast.github.io/tags/opiniones-de-mierda</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
